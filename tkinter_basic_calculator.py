@@ -1,6 +1,7 @@
 """
-Very basic calculator with TKINTER module, I need to add try/except statements
-in some definitions. you ll get an error if you press + without any data.
+Very basic calculator with TKINTER module. Feel free to add thins to code. 
+in some definitions. you ll get an error if you press +, /, *, -,  without any data.
+I wanted to add basic try/except additional statements for some errors, but i was tired.
 """
 
 from tkinter import *

@@ -1,6 +1,6 @@
 """
-Very basic calculator with TKINTER module. Feel free to add thins to code. 
-in some definitions. you ll get an error if you press +, /, *, -,  without any data.
+Very basic calculator with TKINTER module. Feel free change. 
+You might get error if you press +, /, *, -,  without any data. I ll fix as soon as possible :)
 I wanted to add basic try/except additional statements for some errors, but i was tired.
 """
 

@@ -8,7 +8,7 @@ from tkinter import *
 
 root = Tk()
 root.title("Basic Calculator")
-root.geometry("134x312+2500+300")
+root.geometry("134x312+300+300")
 
 
 user_entry = Entry(root)
